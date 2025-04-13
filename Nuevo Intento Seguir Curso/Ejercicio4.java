@@ -1,4 +1,4 @@
-public class VariablesEjemplo {
+public class Ejercicio4 {
     public static void main(String[] args) {
         int edad = 25;
         double peso = 70.5;
